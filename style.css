@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Signika", sans-serif;
+  letter-spacing: 1px;
+  min-height: 100vh;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+.container {
+  margin: 0 auto;
+  padding: 1em;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  width: 90%;
+  height: 70vh;
+  min-width: 400px;
+  max-width: 400px;
+  min-height: 300px;
+  background-image: url(/img/b_day_kiddies.jpg);
+  background-color: rgb(200, 234, 253);
+  background-blend-mode: darken;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+input,
+button {
+  font-family: inherit;
+  letter-spacing: inherit;
+  padding: 0.8em 2em;
+  margin: 1em;
+  border-radius: 5px;
+  max-width: 80%;
+  border: none;
+}
+button {
+  display: block;
+  padding: 0.7em 2em;
+  cursor: pointer;
+  background-color: green;
+  color: white;
+}
+button:focus,
+button:hover {
+  opacity: 0.9;
+}
+
+h1 {
+  margin: 2em;
+  font-size: 1.5em;
+}
