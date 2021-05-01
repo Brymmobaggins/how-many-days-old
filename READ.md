@@ -5,7 +5,7 @@ Thanks for checking the scrimba weekly challenge
 
 # useful resource
 
-  -[resources 1](stackoverflow.com) - This help me to figure out how to parse in the date funtion
+-[resources](https://stackoverflow.com/) - This help me to figure out how to parse in the date funtion
 
 
 ## Buit with
