@@ -1,20 +1,22 @@
-
 # Welcome! 👋
 
 Thanks for checking the scrimba weekly challenge
 
-# useful resource
+## Useful resource
 
--[resources](https://stackoverflow.com/) - This help me to figure out how to parse in the date funtion
+-[stackoverflow](https://stackoverflow.com/) - This helped me to figure out how to parse in the accurate date function.
 
+## Built with
 
-## Buit with
-
-- html
+- Html
 - CSS
-- Javscript
+- JavaScript
+- 
 
+## link
 
-# link
+[live](https://brymmobaggins.github.io/how-many-days-old/)
 
-- live URL - [live](https://brymmobaggins.github.io/how-many-days-old/)
+## Screenshot
+
+![Project img](https://github.com/Brymmobaggins/Public-images/blob/main/HowManyDaysOld.png)
